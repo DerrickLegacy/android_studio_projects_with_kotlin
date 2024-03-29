@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Snackbar Message</string>
+    <string name="show_snackbar_message">Show snackbar Message</string>
+    <string name="show_dialog_message">Show Dialog MEssage</string>
+    <string name="textview">TextView</string>
+    <string name="show_toast_message">Show toast Message</string>
+</resources>
